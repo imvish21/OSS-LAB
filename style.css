@@ -42,4 +42,9 @@ html,body{
     color: #fff;
     font-weight: 600;
 }
-
+.box{
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    color: rgb(18, 119, 57);
+}
